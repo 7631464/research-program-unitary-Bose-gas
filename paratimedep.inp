@@ -1,0 +1,8 @@
+a0initial	a0final		numapoints	matdim		dr  (in ho units)
+1d-6		1d0		101		1000		0.03d0		
+
+nmin		nmax		nnpoints	nnpower
+1d3		1d6		2		4
+
+napower
+3

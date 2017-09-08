@@ -1,0 +1,8 @@
+a0initial	a0final		numapoints	numparticle	dr     (in ho units)
+100d0		1000d0		2		50000		0.02d0		
+
+nmin		nmax		nnpoints	nnpower
+55000d0		1d6		2		4
+
+napower
+3
